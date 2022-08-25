@@ -27,3 +27,5 @@ let domainGenerate = () => {
     }
   }
 };
+
+domainGenerate();
